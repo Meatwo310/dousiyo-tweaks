@@ -177,7 +177,7 @@ dependencies {
     implementation fg.deobf("curse.maven:cloth-config-348521:5729105")
 
     implementation("blank:disableschematicannon-forge-mc1.20.1:v1.0.0")
-    implementation("blank:mildb:0.2.2")
+    implementation("blank:mildb:0.2.3")
     implementation("blank:optiaae:0.1.3")
     implementation("blank:poweredmusicplayer-forge-mc1.20.1:v1.0.1")
     jarJar(group: "blank", name: 'disableschematicannon-forge-mc1.20.1', version: '[v1,)')
